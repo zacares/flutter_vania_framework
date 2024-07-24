@@ -34,7 +34,7 @@ Before creating a pull request, please follow these steps:
 9. **Status Checks** 📝
    - Verify that all status checks are passing.
 
-![PR Process](https://github.com/vania-dart/framework/tree/dev/assets/pr_process.png)
+![PR Process](assets/pr_process.png)
 
 **Thank you for contributing!** :heart: We appreciate your efforts to improve Vania.
 
